@@ -1,0 +1,27 @@
+---
+layout: post
+title: Registo de Tempos de Provas em Wordpress
+tags:
+- ChangeLog
+- Corridas e Caminhadas
+- Tecnologia
+- Trabalho
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '2'
+  keyword_custom: a:1:{s:13:"keywords_time";s:10:"1303334111";}
+  keyword_cache: a:2:{s:8:"trabalho";a:4:{s:3:"url";s:49:"http://www.arzebiu.com/categorias/geral/trabalho/";s:4:"case";s:0:"";s:5:"times";s:1:"1";s:8:"nofollow";s:0:"";}s:13:"keywords_time";s:10:"1329267943";}
+---
+Há uns tempos tive um trabalho para um cliente que me fez ter de explorar melhor o wordpress, que é o motor que corre o meu blog. Com o que aprendi, tive a ideia de fazer um mecanismo simples para registar e listar as <a href="http://www.arzebiu.com/tag/provas-concluidas/">provas em que vou participando</a>. O esquema é simples: quando faço um artigo sobre uma prova, adiciono um conjunto de <em>custom fields</em> com informação específica, como o meu tempo e a distância. Algo como:
+
+<img class="alignnone" title="Configuração de tempos" src="https://lh5.googleusercontent.com/_tDiotWkMcZs/Ta86iBR9QII/AAAAAAAAAqE/8maxXZ8YabU/preview.png" alt="" width="607" height="383" />
+
+O wordpress até é porreiro e apresenta logo uma lista com todas as configurações já registadas para que eu possa facilmente escolher as chaves. A partir do momento em que o artigo tem estes metadados associados, é fácil do lado do motor obter todos os artigos com aquele tipo de dados e apresentá-los. Foi o que eu fiz na minha página de <a href="http://www.arzebiu.com/tempos-em-provas/">Tempos em Provas</a>:
+
+<img class="alignnone" title="Resultado Final" src="https://lh3.googleusercontent.com/_tDiotWkMcZs/Ta867W6y1UI/AAAAAAAAAqI/BcvJ4OPFaKE/preview.png" alt="" width="548" height="303" />
+
+Também aproveitei e apanho logo na listagem quais foram os melhores tempos por par tipo e distância. Esses dados são apresentados logo à cabeça.
+
+Para quem for mais técnico e quiser ver como o fiz, está <a href="https://bitbucket.org/ziyu/arzebiu-aos-molhos/src/771508af0736/wp-content/themes/arzebiu/competitions.php">aqui o código</a> da página que faz estas coisas.
