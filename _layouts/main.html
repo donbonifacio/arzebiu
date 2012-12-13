@@ -1,11 +1,40 @@
 <!DOCTYPE HTML>
 <html lang="pt">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }} | Arzebiu!</title>
-  <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
-  {{ content }}
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | Arzebiu!</title>
+
+    <meta name="author" content="Pedro Santos">
+    <meta name="description" content="O meu blog pessoal">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <link rel="alternate" type="application/atom+xml" title="Blog posts Atom feed" href="http://feeds.feedburner.com/ArzebiuAosMolhos">
+
+    <link rel="stylesheet" href="/css/style.css">
+    <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Arvo:regular' rel='stylesheet' type='text/css'>
+
+  </head>
+  <body>
+    <div id="container">
+      <header class="primary-header">
+        <hgroup>
+        <h1><a href='/'>Arzebiu aos Molhos!</a></h1>
+        </hgroup>
+        <nav>
+          <ul>
+            <li><a href="/">Início</a></li>
+            <li><a href="/about/">Sobre</a></li>
+            <li><a href="/subscrever/">Seguir</a></li>
+            <li><a href="/armazem/">Armazém</a></li>
+            <li><a href="/em-destaque/">Destaque</a></li>
+          </ul>
+        </nav>
+      </header>
+    </div>
+    {{ content }}
+  </body>
 </html>
