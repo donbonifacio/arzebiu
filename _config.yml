@@ -1,6 +1,8 @@
 safe: false
 auto: false
 
+permalink: /:year/:month/:day/:title
+
 source: .
 destination: ./_site
 plugins: ./_plugins
