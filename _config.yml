@@ -1,0 +1,6 @@
+safe: false
+auto: false
+
+source: .
+destination: ./_site
+plugins: ./_plugins
