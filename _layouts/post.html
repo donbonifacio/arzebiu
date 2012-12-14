@@ -1,4 +1,10 @@
 ---
 layout: main
 ---
-{{ content }}
+<article>
+  <header>
+    <h1>{{ page.title }}</h1>
+  </header>
+  <span>{{ page.date | date: "%Y/%M/%D" }}</span>
+  {{ content }}
+</article>
