@@ -16,3 +16,112 @@ categories:
     title: "Os Meus Pratos"
     permalink: "/categorias/culinaria/os-meus-pratos/"
     parent: 'culinaria'
+
+  geral:
+    title: "Geral"
+    permalink: "/categorias/geral/"
+
+  financas:
+    title: "Finanças"
+    permalink: "/categorias/geral/financas/"
+    parent: "geral"
+  
+  opiniao:
+    title: "Opinião"
+    permalink: "/categorias/geral/opiniao/"
+    parent: "geral"
+
+  parodia:
+    title: "Paródia"
+    permalink: "/categorias/geral/parodia/"
+    parent: "geral"
+
+  trabalho:
+    title: "Trabalho"
+    permalink: "/categorias/geral/trabalho/"
+    parent: "geral"
+
+  hobbies:
+    title: "Hobbies"
+    permalink: "/categorias/hobbies"
+
+  aquariofilia:
+    title: "Aquariofilia"
+    permalink: "/categorias/hobbies/aquariofilia/"
+    parent: "hobbies"
+
+  bonsais:
+    title: "Bonsais"
+    permalink: "/categorias/hobbies/bonsais/"
+    parent: "hobbies"
+
+  corridas-e-caminhadas:
+    title: "Corridas e Caminhadas"
+    permalink: "/categorias/hobbies/corridas-e-caminhadas/"
+    parent: "hobbies"
+
+  filmes:
+    title: "Filmes"
+    permalink: "/categorias/hobbies/filmes/"
+    parent: "hobbies"
+
+  futebol:
+    title: "Futebol"
+    permalink: "/categorias/hobbies/futebol/"
+    parent: "hobbies"
+
+  horta-jardim:
+    title: "Horta-Jardim"
+    permalink: "/categorias/hobbies/horta-jardim/"
+    parent: "hobbies"
+
+  jogos:
+    title: "Jogos"
+    permalink: "/categorias/hobbies/jogos/"
+    parent: "hobbies"
+
+  lans:
+    title: "LANs"
+    permalink: "/categorias/hobbies/lans/"
+    parent: "hobbies"
+
+  livros:
+    title: "Livros"
+    permalink: "/categorias/hobbies/livros/"
+    parent: "hobbies"
+
+  mergulho:
+    title: "Mergulho"
+    permalink: "/categorias/hobbies/mergulho/"
+    parent: "hobbies"
+
+  natacao:
+    title: "Natação"
+    permalink: "/categorias/hobbies/natacao/"
+    parent: "hobbies"
+
+  newton:
+    title: "Newton"
+    permalink: "/categorias/hobbies/newton/"
+    parent: "hobbies"
+
+  origami:
+    title: "Origami"
+    permalink: "/categorias/hobbies/origami/"
+    parent: "hobbies"
+
+  series-de-tv:
+    title: "Séries de TV"
+    permalink: "/categorias/hobbies/series-de-tv/"
+    parent: "hobbies"
+
+  tecnologia:
+    title: "Tecnologia"
+    permalink: "/categorias/hobbies/tecnologia/"
+    parent: "hobbies"
+
+  viagens:
+    title: "Viagens"
+    permalink: "/categorias/hobbies/viagens/"
+    parent: "hobbies"
+
