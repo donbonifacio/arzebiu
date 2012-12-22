@@ -116,9 +116,11 @@ module Jekyll
       end
     end
 
+    CHAR_TABLE = YAML.load(File.read('lib/chartable.yml'))
 
     def self.process_post(post, db, options)
       px = options[:table_prefix]
+      puts "Processing #{post[:title]}"
 
       title = post[:title]
       if options[:clean_entities]
@@ -176,17 +178,9 @@ module Jekyll
 
         db[cquery].each do |term|
           if options[:categories] and term[:type] == "category"
-            if options[:clean_entities]
-              categories << clean_entities(term[:name])
-            else
-              categories << term[:name]
-            end
+            categories << to_slug(term[:name])
           elsif options[:tags] and term[:type] == "post_tag"
-            if options[:clean_entities]
-              tags << clean_entities(term[:name])
-            else
-              tags << term[:name]
-            end
+            tags << to_slug(term[:name])
           end
         end
       end
@@ -266,6 +260,15 @@ module Jekyll
       end
     end
 
+    def self.to_slug(text)
+      if text.respond_to?(:force_encoding)
+        text.force_encoding("UTF-8")
+      end
+      CHAR_TABLE.each do |k, v|
+        text.gsub!(k, v)
+      end
+      text.downcase.gsub(' ', '-')
+    end
 
     def self.clean_entities( text )
       if text.respond_to?(:force_encoding)
