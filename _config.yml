@@ -6,3 +6,13 @@ permalink: /:year/:month/:day/:title
 source: .
 destination: ./_site
 plugins: ./_plugins
+
+categories:
+  culinaria:
+    title: "Culinária"
+    permalink: "/categorias/culinaria/"
+
+  os-meus-pratos:
+    title: "Os Meus Pratos"
+    permalink: "/categorias/culinaria/os-meus-pratos/"
+    parent: 'culinaria'
