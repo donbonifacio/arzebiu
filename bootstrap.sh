@@ -5,3 +5,5 @@ gem install jekyll
 gem install hpricot
 gem install sequel
 gem install htmlentities
+gem install unicode
+gem install unidecode
