@@ -13,8 +13,7 @@ layout: main
       <a href="{{ site.categoryList[cat].permalink  }}">{{ site.categoryList[cat].title }}</a>
     {% endfor %}
   </section>
-  {{ page.tags.length }}
-  {% if page.tags %}
+  {% if page.tags.first %}
     <section>
       Etiqueta(s): 
       {% for tag in page.tags %}
