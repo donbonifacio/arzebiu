@@ -7,4 +7,19 @@ layout: main
   </header>
   <span>{{ page.date | date: "%Y/%M/%D" }}</span>
   {{ content }}
+  <section>
+    Categoria(s): 
+    {% for cat in page.categories %}
+      <a href="{{ site.categoryList[cat].permalink  }}">{{ site.categoryList[cat].title }}</a>
+    {% endfor %}
+  </section>
+  {{ page.tags.length }}
+  {% if page.tags %}
+    <section>
+      Etiqueta(s): 
+      {% for tag in page.tags %}
+      <a href="{{ tag }}">{{ tag }}</a>
+      {% endfor %}
+    </section>
+  {% endif %}
 </article>

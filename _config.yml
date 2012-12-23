@@ -7,7 +7,7 @@ source: .
 destination: ./_site
 plugins: ./_plugins
 
-categories:
+categoryList:
   culinaria:
     title: "Culinária"
     permalink: "/categorias/culinaria/"

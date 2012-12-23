@@ -1,7 +1,7 @@
 require 'yaml'
 
 class GenerateCategoryPages
-  DATA = YAML.load(File.read('_config.yml'))["categories"]
+  DATA = YAML.load(File.read('_config.yml'))["categoryList"]
   def self.generate
     DATA.each do |slug, category|
       base_template = File.read('category.html')
