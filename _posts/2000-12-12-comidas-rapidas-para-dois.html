@@ -1,0 +1,20 @@
+---
+type: page
+layout: page
+status: publish
+published: true
+title: comidas-rapidas-para-dois
+permalink: /tags/comidas-rapidas-para-dois
+---
+<header>
+  <h1>{{ page.title }}</h1>
+</header>
+<ul class="listing">
+
+  {% for post in site.tags["comidas-rapidas-para-dois"] %}
+  <li>
+    <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+
+</ul>

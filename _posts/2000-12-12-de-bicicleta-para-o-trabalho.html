@@ -1,0 +1,20 @@
+---
+type: page
+layout: page
+status: publish
+published: true
+title: de-bicicleta-para-o-trabalho
+permalink: /tags/de-bicicleta-para-o-trabalho
+---
+<header>
+  <h1>{{ page.title }}</h1>
+</header>
+<ul class="listing">
+
+  {% for post in site.tags["de-bicicleta-para-o-trabalho"] %}
+  <li>
+    <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+
+</ul>

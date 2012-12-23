@@ -1,0 +1,20 @@
+---
+type: page
+layout: page
+status: publish
+published: true
+title: ponte-25-de-abril
+permalink: /tags/ponte-25-de-abril
+---
+<header>
+  <h1>{{ page.title }}</h1>
+</header>
+<ul class="listing">
+
+  {% for post in site.tags["ponte-25-de-abril"] %}
+  <li>
+    <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+
+</ul>

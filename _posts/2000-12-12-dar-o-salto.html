@@ -1,0 +1,20 @@
+---
+type: page
+layout: page
+status: publish
+published: true
+title: dar-o-salto
+permalink: /tags/dar-o-salto
+---
+<header>
+  <h1>{{ page.title }}</h1>
+</header>
+<ul class="listing">
+
+  {% for post in site.tags["dar-o-salto"] %}
+  <li>
+    <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+
+</ul>

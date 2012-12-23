@@ -1,0 +1,20 @@
+---
+type: page
+layout: page
+status: publish
+published: true
+title: centros-de-mergulho
+permalink: /tags/centros-de-mergulho
+---
+<header>
+  <h1>{{ page.title }}</h1>
+</header>
+<ul class="listing">
+
+  {% for post in site.tags["centros-de-mergulho"] %}
+  <li>
+    <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+
+</ul>
