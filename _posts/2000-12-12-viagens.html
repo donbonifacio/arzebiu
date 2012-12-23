@@ -6,5 +6,15 @@ published: true
 title: Viagens
 permalink: /categorias/hobbies/viagens/
 ---
-{{ page.title }}
-Category
+<header>
+  <h1>{{ page.title }}</h1>
+</header>
+<ul class="listing">
+
+  {% for post in site.categories["viagens"] %}
+  <li>
+    <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+
+</ul>

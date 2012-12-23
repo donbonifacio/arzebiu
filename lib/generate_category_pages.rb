@@ -7,6 +7,7 @@ class GenerateCategoryPages
       base_template = File.read('category.html')
       base_template.gsub!("__page.title__", category["title"])
       base_template.gsub!("__page.permalink__", category["permalink"])
+      base_template.gsub!("__page.slug__", slug)
       IO.write("_posts/2000-12-12-#{slug}.html", base_template)
       puts "Generated page #{slug}"
     end

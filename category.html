@@ -6,5 +6,15 @@ published: true
 title: __page.title__
 permalink: __page.permalink__
 ---
-{{ page.title }}
-Category
+<header>
+  <h1>{{ page.title }}</h1>
+</header>
+<ul class="listing">
+
+  {% for post in site.categories["__page.slug__"] %}
+  <li>
+    <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+
+</ul>
