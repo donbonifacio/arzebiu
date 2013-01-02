@@ -1,24 +1,51 @@
 ---
 layout: arzebiu
 ---
-<article>
-  <header>
-    <h1>{{ page.title }}</h1>
-  </header>
-  <span>{{ page.date | date: "%Y/%M/%D" }}</span>
-  {{ content }}
-  <section>
-    Categoria(s): 
-    {% for cat in page.categories %}
-      <a href="{{ site.categoryList[cat].permalink  }}">{{ site.categoryList[cat].title }}</a>
+{% assign month = page.date | date: "%m" %}
+<div class="post type-post status-publish format-standard">
+  <img src='/images/{{ page.categories.first }}.jpg' class='catavatar' />
+  <h2><a href="{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h2>
+  <div class="date">
+    <div class="bg">
+      <span class="day">{{ page.date | date: "%d" }}</span>
+      <span>{{ site.short_months[month] }}</span>
+      <span>{{ page.date | date: "%Y" }}</span>
+    </div>
+  </div>
+  <div class="entry">
+    {{ page.content }}
+    <div class="cl">&nbsp;</div>
+  </div>
+  <div class="meta">
+    <div class="bg">
+      <p>
+        {% for catslug in page.categories %}
+          {% assign cat_info = site.categoryList[catslug] %}
+          → <a href="{{ cat_info.permalink }}" title="{{ cat_info.title }}" rel="category tag">{{ cat_info.title }}</a>
+        {% endfor %}
+        </p>
+    </div>
+    <div class="bot">&nbsp;</div>
+  </div>
+</div>
+{% if page.tags.first %}
+  <div class="tags">
+    <strong>Etiqueta(s):</strong>
+    {% for tag in page.tags %}
+      → <a href="/tags/{{ tag }}">{{ tag }}</a>
     {% endfor %}
-  </section>
-  {% if page.tags.first %}
-    <section>
-      Etiqueta(s): 
-      {% for tag in page.tags %}
-      <a href="/tags/{{ tag }}">{{ tag }}</a>
+  </div>
+{% endif %}
+{% if page.comments.first %}
+  <div class="staticComments">
+    <h2>Comentários</h2>
+    <ul>
+      {% for comment in page.comments %}
+        <li>
+        <a href="{{ comment.author_url }}">{{ comment.author }}</a><br/>
+          {{ comment.content }}
+        </li>
       {% endfor %}
-    </section>
-  {% endif %}
-</article>
+    </ul>
+  </div>
+{% endif %}
