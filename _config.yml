@@ -153,3 +153,41 @@ categoryList:
     permalink: "/categorias/hobbies/viagens/"
     parent: "hobbies"
 
+  politiquices:
+    title: "Politiquices"
+    permalink: "/categorias/politiquices/"
+
+  economia:
+    title: "Economia"
+    permalink: "/categorias/politiquices/economia/"
+    parent: "politiquices"
+
+  vida-a-dois:
+    title: "Vida a Dois"
+    permalink: "/categorias/vida-a-dois/"
+
+  casa:
+    title: "Casa"
+    permalink: "/categorias/vida-a-dois/casa/"
+    parent: "vida-a-dois"
+
+  casamento:
+    title: "Casamento"
+    permalink: "/categorias/vida-a-dois/casamento/"
+    parent: "vida-a-dois"
+
+  dialogos:
+    title: "Diálogos"
+    permalink: "/categorias/vida-a-dois/dialogos/"
+    parent: "vida-a-dois"
+
+  gravidez:
+    title: "Gravidez"
+    permalink: "/categorias/vida-a-dois/gravidez/"
+    parent: "vida-a-dois"
+
+  historico:
+    title: "Histórico"
+    permalink: "/categorias/vida-a-dois/historico/"
+    parent: "vida-a-dois"
+
