@@ -1,20 +1,43 @@
 ---
 type: page
-layout: page
+layout: arzebiu
 status: publish
 published: true
 title: di-caprio
 permalink: /tags/di-caprio
 ---
-<header>
-  <h1>{{ page.title }}</h1>
-</header>
-<ul class="listing">
-
-  {% for post in site.tags["di-caprio"] %}
-  <li>
-    <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-
-</ul>
+{% for post in site.tags["di-caprio"] %}
+  {% assign month = post.date | date: "%m" %}
+  <div class="post type-post status-publish format-standard">
+    <img src='/images/{{ post.categories.first }}.jpg' class='catavatar' />
+    <h2><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
+    <div class="date">
+      <div class="bg">
+        <span class="day">{{ post.date | date: "%d" }}</span>
+        <span>{{ site.short_months[month] }}</span>
+        <span>{{ post.date | date: "%Y" }}</span>
+      </div>
+    </div>
+    <div class="entry">
+      {% if first_post %}
+        {{ post.content }}
+      {% endif %}
+      <div class="cl">&nbsp;</div>
+    </div>
+    {% if first_post %}
+    <div class="meta">
+      <div class="bg">
+        <span class="comments-num"><a href="{{ post.url }}#comments" title="Comentários">Comentários</a></span>
+        <p>
+          {% for catslug in post.categories %}
+            {% assign cat_info = site.categoryList[catslug] %}
+            → <a href="{{ cat_info.permalink }}" title="{{ cat_info.title }}" rel="category tag">{{ cat_info.title }}</a>
+          {% endfor %}
+          </p>
+      </div>
+      <div class="bot">&nbsp;</div>
+    </div>
+    {% endif %}
+  </div>
+  {% assign first_post = false %}
+{% endfor %}
