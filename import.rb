@@ -10,4 +10,4 @@
 
 
 require "./lib/wordpress.rb"
-Jekyll::WordPress.process("arzebiu", "root", "", "localhost")
+Jekyll::WordPress.process("arzebiu2", "root", "", "localhost")
