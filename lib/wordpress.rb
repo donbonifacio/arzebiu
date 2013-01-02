@@ -250,7 +250,10 @@ module Jekyll
         'categories'    => options[:categories] ? categories : nil,
         'tags'          => options[:tags] ? tags : nil,
         'comments'      => options[:comments] ? comments : nil,
-      }.delete_if { |k,v| v.nil? || v == '' }.to_yaml
+      }.delete_if { |k,v| v.nil? || v == '' }
+      data['permalink'] = "/#{post[:slug].to_s.force_encoding('UTF-8')}/" if post[:type] == 'page'
+
+      data = data.to_yaml
 
       # Write out the data and content to file
       File.open("_posts/#{name}", "w") do |f|
