@@ -1,7 +1,7 @@
 ---
 layout: arzebiu
 ---
-{% capture month %}{{ post.date | date: "%m" }}{% endcapture %}
+{% capture month %}{{ page.date | date: "%m" }}{% endcapture %}
 <div class="post type-post status-publish format-standard">
   <img src='/images/{{ page.categories.first }}.jpg' class='catavatar' />
   <h2><a href="{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h2>
@@ -13,7 +13,7 @@ layout: arzebiu
     </div>
   </div>
   <div class="entry">
-    {{ page.content }}
+    {{ page.content | markdownify }}
     <div class="cl">&nbsp;</div>
   </div>
   <div class="meta">
