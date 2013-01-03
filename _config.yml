@@ -145,7 +145,7 @@ categoryList:
 
   tecnologia:
     title: "Tecnologia"
-    permalink: "/categorias/hobbies/tecnologia/"
+    permalink: "/categorias/geral/tecnologia/"
     parent: "hobbies"
 
   viagens:
