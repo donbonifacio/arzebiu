@@ -246,7 +246,6 @@ module Jekyll
         'more_anchor'   => more_anchor,
         'wordpress_id'  => post[:id],
         'wordpress_url' => post[:guid].to_s.force_encoding('UTF-8'),
-        'date'          => date,
         'categories'    => options[:categories] ? categories : nil,
         'tags'          => options[:tags] ? tags : nil,
         'comments'      => options[:comments] ? comments : nil,
