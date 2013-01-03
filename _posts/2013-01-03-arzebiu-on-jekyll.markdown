@@ -2,6 +2,7 @@
 title: Arzebiu on Jekyll
 type: post
 layout: post
+markdown: true
 categories:
 - tecnologia
 tags:

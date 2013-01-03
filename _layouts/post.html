@@ -13,7 +13,11 @@ layout: arzebiu
     </div>
   </div>
   <div class="entry">
-    {{ page.content | markdownify }}
+    {% if page.markdown %}
+      {{ page.content | markdownify }}
+    {% else %}
+      {{ page.content }}
+    {% endif %}
     <div class="cl">&nbsp;</div>
   </div>
   <div class="meta">
