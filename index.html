@@ -5,14 +5,14 @@ layout: arzebiu
 <article>
   {% assign first_post = true %}
   {% for post in site.posts offset:0 limit: 20 %}
-    {% assign month = post.date | date: "%m" %}
+    {% capture month %}{{ post.date | date: "%m" }}{% endcapture %}
     <div class="post type-post status-publish format-standard">
       <img src='/images/{{ post.categories.first }}.jpg' class='catavatar' />
       <h2><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
       <div class="date">
         <div class="bg">
           <span class="day">{{ post.date | date: "%d" }}</span>
-          <span>{{ month }}{{ site.short_months[month] }}</span>
+          <span>{{ site.short_months[month] }}</span>
           <span>{{ post.date | date: "%Y" }}</span>
         </div>
       </div>
