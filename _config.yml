@@ -53,7 +53,7 @@ categoryList:
     title: "Finanças"
     permalink: "/categorias/geral/financas/"
     parent: "geral"
-  
+
   opiniao:
     title: "Opinião"
     permalink: "/categorias/geral/opiniao/"

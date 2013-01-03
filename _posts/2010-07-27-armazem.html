@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: arzebiu
 status: publish
 published: true
 title: Armazém
@@ -16,4 +16,12 @@ tags: []
 comments: []
 permalink: /armazem/
 ---
-
+<h2>Armazém</h2>
+<ul>
+  {% for cat in site.categories %}
+    {% assign cat_name = cat[0] %}
+    {% assign cat_info = site.categoryList[cat_name] %}
+    <li><a href="{{ cat_info.permalink }}">{{ cat_info.title }}</a></li>
+  {% endfor %}
+  <li><a href="/tags/">Etiquetas</a></li>
+</ul>
