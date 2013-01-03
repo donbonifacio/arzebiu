@@ -4,3 +4,4 @@ img.alignnone { display: block; margin: 10px 0;}
 ul.listing { list-style: none; margin-left:0; font-size:15px;}
 ul.listing li { padding-left:0; }
 ul.listing li span { color: #DDDDDD; float:right;}
+h2.pagetitle { margin-bottom:20px;}
