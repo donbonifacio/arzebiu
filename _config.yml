@@ -186,6 +186,11 @@ categoryList:
     permalink: "/categorias/vida-a-dois/gravidez/"
     parent: "vida-a-dois"
 
+  criancas:
+    title: "Crianças"
+    permalink: "/categorias/vida-a-dois/criancas/"
+    parent: "vida-a-dois"
+
   historico:
     title: "Histórico"
     permalink: "/categorias/vida-a-dois/historico/"
