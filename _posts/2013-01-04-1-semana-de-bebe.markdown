@@ -5,6 +5,8 @@ markdown: true
 title: 1 semana de bebé
 categories:
 - criancas
+tags:
+- madalena
 ---
 
 Hoje a Madalena faz uma semana. Depois de um [parto](/tag/parto-da-madalena/) que até correu bem já
