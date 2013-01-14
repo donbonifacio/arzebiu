@@ -7,6 +7,7 @@ categories:
 - criancas
 tags:
 - madalena
+- recordar-2013
 ---
 
 Hoje a Madalena faz uma semana. Depois de um [parto](/tag/parto-da-madalena/) que até correu bem já

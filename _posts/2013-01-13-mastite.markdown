@@ -7,6 +7,7 @@ categories:
 - criancas
 tags:
 - madalena
+- recordar-2013
 ---
 
 Andava tudo a correr muito bem até que certo dia fomos visitados pela [Mastite Puerperal](_posts/2013-01-13-mastite.markdown).
