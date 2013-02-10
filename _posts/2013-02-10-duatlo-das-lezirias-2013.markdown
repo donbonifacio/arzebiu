@@ -34,7 +34,7 @@ de seguir na roda e aí comecei a ganhar de volta alguns lugares. Ainda por cima
 a parte em que estávamos a favor do vento era um relvado que se traduzia em
 menor velocidade. Cheguei à segunda transição com 1h23m. Por esta altura 
 já estava em risco bater o meu record do ano passado. Nota que no ano passado
-fiz 1h20m com uma bicicleta do pingo doce. Este ano foi bem pior, e penso que se
+fiz 1h22m com uma bicicleta do pingo doce. Este ano foi bem pior, e penso que se
 deve quer ao vento, quer à minha falta de kms nas pernas desde que a Madalena
 nasceu. Sinto-me melhor em termos respiratórios e de potência, mas a força e a
 resistência ainda não cá páram.
