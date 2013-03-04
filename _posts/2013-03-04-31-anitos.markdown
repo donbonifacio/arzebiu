@@ -1,7 +1,7 @@
 ---
 type: post
 layout: post
-markdonw: true
+markdown: true
 status: publish
 published: true
 title: 31 Anitos
