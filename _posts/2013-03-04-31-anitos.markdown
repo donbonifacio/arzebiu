@@ -1,10 +1,10 @@
 ---
 type: post
-layout: arzebiu
+layout: post
 markdonw: true
 status: publish
 published: true
-title: 31 nitos
+title: 31 Anitos
 categories:
 - geral
 tags:
