@@ -9,7 +9,7 @@ tags:
 - provas
 - provas-concluidas
 - duatlo
-- recordar 2013
+- recordar-2013
 ---
 
 Lá consegui encaixar na minha agenda o Duatlo das Lezírias, que já tinha feito
