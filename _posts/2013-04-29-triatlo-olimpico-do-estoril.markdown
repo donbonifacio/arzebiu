@@ -20,7 +20,7 @@ cuidado esta prova mas sem o carinho que precisava, devido às limitações de t
 que agora tenho com a Madalena. Ainda assim consegui concluir aquele que foi
 o meu primeiro triatlo olímpico com o tempo de 3h18m!
 
-!!!Natação
+### Natação
 
 O primeiro segmento foi o que mais temia. Não sou muito bom a nadar e não
 gosto especialmente de nadar em água salgada. No início da manhã todos se queixavam
@@ -34,14 +34,14 @@ sempre respiração bilateral, mas ali não sei se era da ansiedade ou do nervos
 tinha de fazer respitação a cada braçada. Consegui concluir a natação em 40m,
 o que foi bem acima do que estava à espera. Mas o pior já estava.
 
-!!!T1
+### T1
 
 Cheguei à primeira transição e sentia-me genuinamente tonto. Mais tarde disseram-me
 que é normal depois de tanto tempo na horizontal. Sentei-me e tirei o fato e pus
 o capecete e as luvas. Tirei logo um gel e comecei a comer, já que pensava que
 as tonturas eram por fraqueza. Ainda demorei mais de 3m a sair do parque.
 
-!!!Bicicleta
+### Bicicleta
 
 Comecei devagarinho enquando consumia o gel e num instante já me sentia bem.
 Comecei a apanhar imensa gente que já me tinham voltas de avanço. E lá fui no
@@ -54,12 +54,12 @@ da água. Comecei a reparar que já estava a competir com o pessoal das estafeta
 e aqui apercebi-me que provavelmente já ia em último. Fiz o segmento de bicicleta
 em 1h36m.
 
-!!!T2
+### T2
 
 Esta transição foi mais pacífica, também já a fiz várias vezes. Ainda assim
 demorei 1m44s. Peguei em mais um gel e toca a ir para a corrida.
 
-!!!Corrida
+### Corrida
 
 Tinha muito medo de fazer 10km depois do esforço dos segmentos anteriores.
 Comecei a um bom ritmo, não sabia a quantas ia mas queria fazer pelo menos em
@@ -69,7 +69,7 @@ apanhei o Tiago (apesar de ele ter uma volta de avanço sobre mim). As coisas
 não lhe correram tão bem como eu esperava. Na última volta já não via mais 
 ninguém sem ser uma rapariga e cortei a meta com 57m59s.
 
-!!!Rescaldo
+### Rescaldo
 
 ![Medalha](https://lh4.googleusercontent.com/-S7V3lr6YaT8/UX4r5eR8-cI/AAAAAAAAc-A/Wuf2xbbZU8w/s800/20130428_173412.jpg)
 
