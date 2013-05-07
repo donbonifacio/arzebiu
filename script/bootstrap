@@ -11,4 +11,4 @@ rbenv local $RUBY_VERSION
 rbenv rehash
 
 gem install jekyll
-
+rbenv rehash
