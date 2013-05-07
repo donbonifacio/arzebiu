@@ -1,0 +1,14 @@
+#! /bin/bash
+
+RUBY_VERSION="arzebiu.rbenv"
+DEFINITION_PATH="script/$RUBY_VERSION"
+
+
+rbenv uninstall -f $DEFINITION_PATH
+rbenv install $DEFINITION_PATH
+
+rbenv local $RUBY_VERSION
+rbenv rehash
+
+gem install jekyll
+

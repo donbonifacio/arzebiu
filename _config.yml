@@ -1,5 +1,4 @@
 safe: false
-auto: false
 
 permalink: /:year/:month/:day/:title
 
