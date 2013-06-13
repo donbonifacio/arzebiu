@@ -10,7 +10,7 @@ tags:
 - madalena
 ---
 
-![Madalena na Praia](https://picasaweb.google.com/lh/photo/oBRDswJbDAVopg4iFA5ihqWnmtReoIcz0M3LICICIz0?feat=directlink)
+![Madalena na Praia](https://lh3.googleusercontent.com/-1GPrWrUgkYU/UbmkhSJYExI/AAAAAAAAd5A/IyLeaK-4rzw/s144/DSCF0625.JPG)
 
 Hoje aproveitámos o feriado de Lisboa para levar a Madalena à praia. Aproveitámos
 também e levámos o meu pai, a minha mana e a minha sobrinha. Infelizmente o
