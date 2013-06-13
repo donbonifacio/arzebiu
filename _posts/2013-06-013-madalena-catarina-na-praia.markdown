@@ -35,4 +35,4 @@ não parou. E nós a pensar que ela ia ficar KO... estávamos mais cansados nós
 ela.
 
 A ver se para a próxima a água está melhor e a Madalena consegue ir fazer
-uns golfinhos com o pai!
+uns golfinhos com o pai! :-)
