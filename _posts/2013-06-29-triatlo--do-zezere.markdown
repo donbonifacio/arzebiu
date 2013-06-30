@@ -16,7 +16,7 @@ Agora a ver se volto aos treinos de forma mais regular. Foi a primeira vez que
 foi ao triatlo em Pedrogão Grande e gostei muito. Ao contrário dos segmentos de
 bicicleta que costumam ser algo planos, este aqui tinha um acumulado de relevo.
 
-# Natação
+## Natação
 
 ![Saída da natação triatlo Zêzere](https://lh3.googleusercontent.com/-k5qtqXhO6pU/UdAL2fvNiWI/AAAAAAAAeTY/KDv46F81Xek/s640/DSCF0754.JPG)
 
@@ -28,7 +28,7 @@ esperado conseguir ir quase sempre com alguém durante grande parte do percurso.
 Aliás, por volta dos 300m levei uma trailitada que me sairam os óculos e tudo!
 Acabei em menos de 18m, o que era o meu objectivo.
 
-# Bicicleta
+## Bicicleta
 
 ![Saída de bicicleta](https://lh6.googleusercontent.com/-Uym6eTKECX8/UdAMJ_hOuzI/AAAAAAAAeUw/TDFUDBwBxSk/s640/DSCF0765.JPG)
 
@@ -39,12 +39,12 @@ de bicicleta foram 3 voltas e meia onde apanhámos por 4x uma super subida de
 de Oeiras. Ainda assim conseguir ir sempre _acompanhado_. Claro que pelos últimos,
 mas soube bem ir com alguma companhia. Acabei com cerca de 54m.
 
-# Corrida
+## Corrida
 
 Cheguei à corrida desgastado. Fiz a corrida a um ritmo muito suave, sob o calor
 intenso. Foram mais de 29m.
 
-# Conclusão
+## Conclusão
 
 Já me senti melhor mas ainda não tenho a forma para aguentar uma prova agressiva
 destas a um bom nível. Foi uma prova muito bonita e bem organizada e espero
