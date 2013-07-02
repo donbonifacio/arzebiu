@@ -6,7 +6,6 @@ title: 1ª Corrida dos Pupilos do Exército
 categories:
 - corridas-e-caminhadas
 tags:
-- triatlo
 - recordar-2013
 - provas
 - provas-concluidas
