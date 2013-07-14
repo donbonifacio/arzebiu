@@ -21,7 +21,7 @@ organizadores, e desta vez bem mais perto: em Sintra. No OMD foram 20kms mas nes
 seriam 25kms. Algo que já sabia que iria custar caro, tal o peso deste tipo de
 percursos.
 
-[Sintra](https://lh3.googleusercontent.com/-07-IDv6bZqw/UeFKUCBRsOI/AAAAAAAAetU/OJew2wpTBY0/s640/GOPR2677.JPG)
+![Sintra](https://lh3.googleusercontent.com/-07-IDv6bZqw/UeFKUCBRsOI/AAAAAAAAetU/OJew2wpTBY0/s640/GOPR2677.JPG)
 
 A corrida começou às 7h da manhã pelo que tive de madrugar. Cheguei bem cedo
 para levantar o meu dorsal e encontrei lá o Tiago. Ainda ficámos a pôr a conversa
@@ -33,7 +33,7 @@ a serra de Sintra e com ela uma subida de relevo. Tudo muito bonito, lindo mesmo
 Mas umas subidas de muito respeito. Muitas vezes até tive de usar as mãos. Subimos
 inclusivé uma pista de _downhill_.
 
-[Cabo da Roca](https://lh6.googleusercontent.com/-BmhoHPwEnZs/UeFKbmo-ZlI/AAAAAAAAeuM/WreLFTbkpZQ/s640/GOPR2684.JPG)
+![Cabo da Roca](https://lh6.googleusercontent.com/-BmhoHPwEnZs/UeFKbmo-ZlI/AAAAAAAAeuM/WreLFTbkpZQ/s640/GOPR2684.JPG)
 
 No final da serra havia o abastecimento que aproveitei bem. Depois foi quase sempre
 a descer, sendo que também não conseguia descer muito rápido. Mas ia a um ritmo bom,
