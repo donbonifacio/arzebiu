@@ -10,7 +10,7 @@ tags:
 - recordar-2013
 - provas
 - provas-concluidas
-- trilhos-pedestres-concluidos
+- trilhos-pedestres-percorridos
 ---
 
 ![Em Sintra](https://lh5.googleusercontent.com/-dDDxr6OzE0U/UeFKJDy_TlI/AAAAAAAAesE/5Rjki37t7Es/s640/GOPR2668.JPG)
