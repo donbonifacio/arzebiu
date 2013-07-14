@@ -6,7 +6,7 @@ title: Trip Trail Monte da Lua
 categories:
 - corridas-e-caminhadas
 tags:
-- trai-run
+- trail-run
 - recordar-2013
 - provas
 - provas-concluidas
