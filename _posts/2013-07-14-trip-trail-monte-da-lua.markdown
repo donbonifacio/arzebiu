@@ -43,6 +43,8 @@ altamente penoso e pedia imenso esforço. Descer era altamente técnico e arrebe
 com os pés. Não sabia se preferia ir a subir ou a descer. Fiz aqui o meu km mais
 lento. Foram 24m30s a fazer 1 km. Depois disto estava arrebentado e fiz o resto a andar.
 
+![Meta](https://lh4.googleusercontent.com/-bL00H7UlkPo/UeOunkeKEkI/AAAAAAAAe0E/R8NaLflUHjA/s640/72906_411825912270055_1828663810_n.jpg)
+
 Cheguei à meta com 4h35m... completamente arrebentado. Foi a prova mais dura
 que já fiz até hoje. Mas a beleza compensou. É por coisas destas que vale a pena
 treinar e estar em forma.
