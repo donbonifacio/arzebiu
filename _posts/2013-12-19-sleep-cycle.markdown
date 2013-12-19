@@ -2,7 +2,7 @@
 type: post
 layout: post
 markdown: true
-title: Sleep cycle
+title: Dormir com Sleep cycle
 categories:
 - criancas
 - tecnologia
