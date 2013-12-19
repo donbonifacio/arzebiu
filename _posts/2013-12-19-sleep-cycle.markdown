@@ -12,7 +12,7 @@ tags:
 
 ![Sleep Cycle](https://lh3.googleusercontent.com/-yXnD0BkIjjw/UrMIwrlJ95I/AAAAAAAAghE/yWE54XJ7Ijw/s400/13%2520-%25201.jpg)
 
-Tenho estado a usar um desperador para o telemóvel: [http://www.sleepcycle.com/](Sleep Cycle). É
+Tenho estado a usar um desperador para o telemóvel: [Sleep Cycle](http://www.sleepcycle.com/). É
 algo que vários colegas usam há algum tempo e comecei há uma semana. Deixamos o telemóvel em cima
 da cama e ele regista através dos nossos movimentos e sons um gráfico do quão bem estamos a dormir.
 Depois, tem um _time frame_ de 30 min antes da hora de despertar, onde nos pode acordar
