@@ -10,7 +10,7 @@ tags:
 - recordar-2013
 ---
 
-[Castelo](https://lh4.googleusercontent.com/-Re8idurOAxk/Ur7iHY88q6I/AAAAAAAAg2o/0I6yl98Qk8U/s640/IMG_0142.JPG)
+![Castelo](https://lh4.googleusercontent.com/-Re8idurOAxk/Ur7iHY88q6I/AAAAAAAAg2o/0I6yl98Qk8U/s640/IMG_0142.JPG)
 
 Ficar de repende sozinho com uma Madalena rabugenta durante umas horas
 poderia ser problemático. Mas eu peguei nos restos do natal e com a ajuda
