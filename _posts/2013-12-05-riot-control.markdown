@@ -10,7 +10,7 @@ tags:
 - recordar-2013
 ---
 
-Comecei com dois colegas um novo blog: [Riot Control](http://www.riot-control.net).
+Comecei com dois colegas um novo blog - [Riot Control](http://www.riot-control.net).
 O objectivo é ser um blog mais técnico sobre desenvolvimento de produtos, onde
 vamos deixando as experiências do dia a dia.
 
