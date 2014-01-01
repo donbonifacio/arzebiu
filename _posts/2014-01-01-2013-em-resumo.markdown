@@ -1,0 +1,121 @@
+---
+layout: post
+status: publish
+markdown: true
+published: true
+title: 2013 em Resumo
+categories:
+- historico
+tags:
+- recordar-2013
+---
+
+É altura de fazer a retroespectiva de 2013. Um ano claramente marcado pela Madalena
+e o meu primeiro ano como pai. Ainda assim cheio de outras coisas boas que aconteceram.
+
+### Primeiro Trimestre
+
+O ano começou com a [alteração tecnológica aqui do blog para jekyll](/2013/01/03/arzebiu-on-jekyll).
+Estou contente com a alteração, embora ainda fale algumas coisas. Enquanto isso
+vivi a [primeira semana de bebé](/2013/01/04/1-semana-de-bebe), acompanhada de
+algumas [dificuldades da Clau a amamentar](/2013/01/13/mastite). Não impediu
+de fazermos uma [sessão de fotos](/2013/01/14/sessao-fotografica-recem-nascidos) com a Madalena.
+
+Apesar da paragem chegou a altura de voltar ao desporto. Comecei com o
+[duatlo do jamor](/2013/01/27/duatlo-jamor-2013) e logo depois o
+[duatlo das lezírias](/2013/02/10/duatlo-das-lezirias-2013). Fiz ambos até com
+bons tempos. Mas foi no [audace Estrelas da Amadora](/2013/02/24/ii-audace-estrelas-da-amadora)
+que a minha falta de treino veio ao de cima. Pela primeira vez considerei desistir
+de uma prova.
+
+No meio disto tudo nasceu a [minha sobrinha linda](/2013/02/24/sou-tio/) e a Madalena
+[sorria](/2013/03/04/o-sorriso-da-madalena.markdown/).
+
+Fiz [31 anos](/2013/03/04/31-anitos) e a malta do trabalho deu-me uma prenda
+[espectacular](/2013/03/07/prenda-swat-madalena). Tive o meu primeiro [pull request](/2013/03/08/primeiro-pull-request-aceite)
+aceite e ainda participei num [vídeo muito engraçado sobre a minha empresa](/2013/03/28/rupeal-we-are-one).
+
+Voltei também às provas de corrida, experimentando pela primeira vez _trail run_ no
+[OMD Vila de Rei](/2013/03/10/oh-meu-deus-vila-de-rei) e fiz também a
+[meia da ponte](/2013/03/24/meia-da-ponte).
+
+### Segundo Trimestre
+
+Experimentei uma corrida de obstáculos no [Commando Challenge](/2013/04/08/comando-challenge). Muito giro!
+Mas o melhor vinha já de seguida. Pela primeira vez participei e completei
+um [triatlo olímpico](/2013/04/29/triatlo-olimpico-do-estoril). Era um objectivo
+de longa data. Fiz um péssimo tempo, mas acabei! Nesta prova conheci alguém
+da parte de triatlo do Clube de Natação Vasco da Gama e entrei para o clube.
+Já fiz o [triatlo de oeiras](/2013/06/09/triatlo-sprint-oeiras) pelo clube. Também
+a primeira vez que fiz um triatlo _sprint_.
+
+A Madalena continua a crescer e por esta altura já tinha [4 meses](/2013/05/07/4-meses-da-madalena).
+Altura ideal para a levar a ela e à Catarina pela [primeira vez à praia](/2013/06/13/madalena-catarina-na-praia).
+
+Acabei também o meu primeiro curso online, [Gamification no Coursera](/2013/05/13/gamification). Foi um
+curso que me levou ainda muito tempo e que custou a fazer, dada a minha disponibilidade.
+
+Depois voltei às provas de 10km nos [pupilos do exército](/2013/06/16/pupilos-do-exercito) e de seguida
+mais um triatlo sprint em [Pedrogão Grande](/2013/06/29/triatlo--do-zezere). Este triatlo já
+com um percurso bem duro.
+
+
+### Terceiro Trimestre
+
+Voltei às corridas de _trail run_ no [ultra trail de Sintra](/2013/07/14/trip-trail-monte-da-lua). Uma das provas
+mais duras que já fez. Mas deu-me a motivação que faltava para começar a treinar para
+a maratona. Parei então completamente os treinos para descansar e tive as primeiras
+[férias com a Madalena](/2013/07/18/ferias-madalena). Foram muito giras, com muita
+praia.
+
+Depois das férias voltei a treinar com vista à maratona. Ainda deu para ir de noite
+com o Tiago para [Constância de bicicleta](/2013/08/27/amadora-constancia). Há muito tempo
+que não fazia uma volta destas grande e soube mesmo bem. Consegui também, finalmente,
+bater o meu _record_ aos 10kms na [Corrida do Tejo](/2013/09/15/corrida-do-tejo).
+
+Entretanto a Madalena [entra na creche](/2013/09/15/madanlena-escolinha). Foi uma altura
+complicada e de muito choro. Mas não demorou muito até ela começar a gostar de ir para
+a escolinha.
+
+Por fim, recebi como prenda uma bicicleta _singlespeed_ e _old school_, toda montada
+pelo meu cunhado. A [Pré-Cycles](/2013/09/15/singlespeed-pre-cycles).
+
+### Quarto Trimestre
+
+Depois de dois meses de treino com vista à maratona, chegou o grande dia e fiz
+a [maratona rock 'n roll de Lisboa'](/2013/10/07/maratona-rock-n-roll-lisboa). Custou
+mas foi uma excelente sensação ter conseguido terminar.
+
+Entretanto a Madalena já fazia [10 meses](/2013/10/26/10-meses-da-madalena) e entrou
+para a [natação](/2013/11/29/natacao-madalena). Adora ir para a natação, e eu adoro
+ir com ela.
+
+Convenci os meus colegas de trabalho e fomos todos fazer mais um [Comando Challenge](/2013/12/01/comando-challenge2).
+Foi uma actividade de _team building_ muito engraçada. Depois ainda fiz um brilharete
+na [meia maratona dos descobrimentos](/2013/12/08/meia-dos-descobrimentos).
+
+Criei o [Riot Control](/2013/12/05/riot-control) com dois colegas, um blog técnico. Também
+acabei um curso que andei a fazer ao longo do ano sobre [liderança](/2013/12/16/lideranca),
+onde aprendi imenso.
+
+Fiquei super alegre quando aos 11 meses a [Madalena começa a andar](/2013/12/11/madalena-ja-anda).
+Por pouco não me apanhavam a [cantar de alegria](/2013/12/20/feliz-natal-invoicexpress).
+
+Veio depois o [natal](/2013/12/26/natal-2013) que foi muito engraçado e em cheio.
+Só foi pena a mega constipação que apanhei que até me deixou de cama e com febre.
+Não impediu que a Madalena tivesse o seu [primeiro aniversário em grande](/2013/12/28/1o-aniversaio-madalena) e
+que ajudassse o pai a fazer o seu [primeiro castelo](/2013/12/27/castelo-madalena).
+
+Mesmo meio adoentada, consegui terminar o ano com a já tradicional
+[São Silvestre da Amadora](/2013/12/31/sao-silvestre-da-amadora-2013).
+
+### Resumo Desportivo
+
+Fui para o trabalho 19x de bicicleta. Foi praticamente um mês útil. Fiz 1088km
+a correr e 1735 de bicicleta. Nadei quase 40km. Consegui completar o primeiro
+triatlo olímpico e a primeira maratona.
+
+### Conclusão
+
+Grande ano. Sem dúvida a Madalena foi a grande personagem. Ela e a Clau fazem-me
+super feliz e é a melhor aventura de sempre viver com elas.
