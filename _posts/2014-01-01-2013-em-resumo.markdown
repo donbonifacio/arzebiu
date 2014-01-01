@@ -10,13 +10,13 @@ tags:
 - recordar-2013
 ---
 
-É altura de fazer a retroespectiva de 2013. Um ano claramente marcado pela Madalena
+É altura de fazer a retrospectiva de 2013. Um ano claramente marcado pela Madalena
 e o meu primeiro ano como pai. Ainda assim cheio de outras coisas boas que aconteceram.
 
 ### Primeiro Trimestre
 
 O ano começou com a [alteração tecnológica aqui do blog para jekyll](/2013/01/03/arzebiu-on-jekyll).
-Estou contente com a alteração, embora ainda fale algumas coisas. Enquanto isso
+Estou contente com a alteração, embora ainda falte algumas coisas. Enquanto isso
 vivi a [primeira semana de bebé](/2013/01/04/1-semana-de-bebe), acompanhada de
 algumas [dificuldades da Clau a amamentar](/2013/01/13/mastite). Não impediu
 de fazermos uma [sessão de fotos](/2013/01/14/sessao-fotografica-recem-nascidos) com a Madalena.
@@ -63,7 +63,7 @@ com um percurso bem duro.
 ### Terceiro Trimestre
 
 Voltei às corridas de _trail run_ no [ultra trail de Sintra](/2013/07/14/trip-trail-monte-da-lua). Uma das provas
-mais duras que já fez. Mas deu-me a motivação que faltava para começar a treinar para
+mais duras que já fiz. Mas deu-me a motivação que faltava para começar a treinar para
 a maratona. Parei então completamente os treinos para descansar e tive as primeiras
 [férias com a Madalena](/2013/07/18/ferias-madalena). Foram muito giras, com muita
 praia.
