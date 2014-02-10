@@ -28,8 +28,8 @@ uns segundos. Fiz um pace de 4m41 por km.
 
 Começou a bicicleta e aí o vendo foi a doer. Um dos troços mais longos onde se
 pode rolar bem foi imensamente castigado por vento e chuva de frente. Às vezes
-ainda me conseguia proteger em grupo, mas foi mto difícil. Para complicar ainda
-mais, depois do vento, vinha um troço cheio de lama. Fiz este troço em metade
+ainda me conseguia proteger em grupo, mas foi muito difícil. Para complicar ainda
+mais, depois do vento, vinha um troço cheio de lama. Fiz este troço no dobro
 do tempo do ano passado. Tanta lama fazia ir devagar e com esforço. E foram duas
 voltas disto.
 
