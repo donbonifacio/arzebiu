@@ -12,6 +12,7 @@ tags:
 - provas
 - provas-concluidas
 - corrida-da-arvore
+- recordar-2014
 ---
 
 Depois de ter feito a corrida da árvore em 2011, hoje voltei a repetí-la. Ia sem grande expectativas, apenas com o
