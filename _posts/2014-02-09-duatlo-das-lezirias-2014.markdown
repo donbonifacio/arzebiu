@@ -12,6 +12,8 @@ tags:
 - recordar-2014
 ---
 
+![Tempestade](https://lh6.googleusercontent.com/-Lj0qWWjsPqI/UzBo6b0c4ZI/AAAAAAAAhLI/AfTypp52Rcc/s640/1920234_10152223824329413_901790358_n.jpg)
+
 Ainda esta semana pensava que ainda não tinha feito nenhuma prova sob chuva
 imensa. Já tive muita lama, alguma chuva, muita dureza. Mas este duatlo das
 lezírias teve de tudo.
