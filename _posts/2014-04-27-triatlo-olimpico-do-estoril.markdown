@@ -60,6 +60,7 @@ Pacífica e rápida.
 ### Corrida - 53m
 
 ![Foto](https://lh3.googleusercontent.com/-EJ5btAbh474/U14H23L19pI/AAAAAAAAhP8/U-XR-r0oqSc/s640/10002918_745283952159284_4411073045203288589_n.jpg)
+
 Comecei a corrida já a sentir algum peso. Comecei e ia com 2h1m no relógio, o que
 me dava a entender que conseguia fazer facilmente as 3h, e comecei a apontar
 para as 2h55m. Mas aqui não estava nada bem, se fosse ao ritmo normal sentia-me
