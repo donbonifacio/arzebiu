@@ -10,7 +10,7 @@ tags:
 - recordar-2014
 ---
 
-![Foto](/images/201406_triatlo_oeiras_1.jpg)
+![Foto](/images/posts/201406_triatlo_oeiras_2.jpg)
 
 Segunda vez que faço este triatlo. O ano passado correu-me muito bem mas este
 ano não ia muito confiante. Mudei de escritório há 3 semanas e só agora consigo
@@ -50,7 +50,7 @@ e do tanto tempo que perdi na transição. Ainda assim senti-me muito bem. Acabe
 recta da meta ao sprint com um colega atleta, mas ele nos últimos metros conseguiu
 distanciar-se.
 
-![Foto](/images/201406_triatlo_oeiras_2.jpg)
+![Foto](/images/posts/201406_triatlo_oeiras_1.jpg)
 
 Agora é pensar nos próximos desafios... Provavelmente UTS e a maratona. E pensar
 em ter aulas de natação, se quero fazer um longo para o ano tenho de começar a nadar
