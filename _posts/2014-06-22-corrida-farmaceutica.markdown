@@ -9,7 +9,7 @@ tags:
 - recordar-2014
 ---
 
-![Foto](/images/posts/201406_corrida_rupeal.jpg)
+![Foto](/images/posts/20140622_corrida_rupeal.jpg)
 
 No contexto da empresa já consegui pôr os meus colegas a mexer várias vezes e
 agora fomos uns quantos à corrida farmacêutica. Uns iam pela primeira vez, outros
