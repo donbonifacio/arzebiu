@@ -17,7 +17,7 @@ tags:
 
 Como preparação para a maratona que aí vem fui fazer 30 kms nos Trilhos dos
 Templários. Estou quase a acabar de pôr carga nas pernas e este era um dos
-objectivos antes de começar a fazer o _tapper_ para a maratona. O dia prometia
+objectivos antes de começar a fazer o _taper_ para a maratona. O dia prometia
 muita chuva mas esteve imenso calor, e muitas poças por onde molhar os pés.
 
 ![Primeira subida de relevo](/images/posts/templarios_2.jpg)
