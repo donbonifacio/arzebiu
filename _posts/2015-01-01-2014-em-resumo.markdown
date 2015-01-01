@@ -1,0 +1,126 @@
+---
+layout: post
+status: publish
+markdown: true
+published: true
+title: 2014 em Resumo
+categories:
+- historico
+tags:
+- recordar-2014
+---
+
+[2014](http://www.arzebiu.com/tag/recordar-2014/) foi dos anos em que mais coisas
+aconteceram, mas também o ano em que coloquei menos experiências da minha vida
+aqui no blog.
+
+### Madalena
+
+A Madalena está uma menina cada vez mais linda e crescida. Vê-la crescer é algo
+que me trás imensa alegria. Está cada vez mais espevitada, já consegue fazer
+alguns diálogos connosco, é teimosa e gosta de fazer as coisas à sua maneira,
+sendo que já começa a lidar bem com as frustações do não. Corre tudo bem na
+escola e com a sua saúde. É muito carinhosa e adoro quando ela me dá mimos
+expontâneos.
+
+Ainda acorda 1x por noite, sendo que agora sou eu que vou ter com ela. Consigo
+voltar a adormecê-la sempre com facilidade, mas não sem antes contar a história
+dos 3 porquinhos. Continua a adorar histórias e livros e adora que a gente se
+sente com ela com um livro. A novidade é que já não é só com livros... nem
+sabemos bem como, mas já está completamente à vontade a mexer no meu _ipad_.
+Gosta de pôr histórias e músicas no youtube, e até já joga alguns joguinhos de
+puzzle que arranjei para a idade dela. O à vontade dela com o _ipad_ é muito
+interessante. Presumo que tenha sido de nos ver a mexer e tenha aprendido.
+
+Apesar de já brincar sozinha ainda pede muito a nossa colaboração nas brincadeiras,
+e é comum chamar-nos para ir correr lá para fora, para ir para o parque, para
+nos fazer comida na sua cozinha, para dançar... por aí fora. Sou muito orgulhoso
+da minha filhota, que fez 2 anos há poucos dias. Um aniversário cheio de gente
+que ela adorou.
+
+### InvoiceXpress Makeover
+
+Finalmente, em Dezembro, saiu aquilo em que estava a trabalhar quase há um ano
+e meio. Um _makeover_ considerável do InvoiceXpress, projecto onde tenho trabalhado
+nos últimos 3 anos. Foi um experiência muito enriquecedora em termos profissionais.
+Foi neste ano que deu um _salto_ para _team leader_ e tem corrido muito bem,
+tenho tido _feedback_ muito bom e fico muito orgulhoso de mim.
+
+Senti o gosto a ter pessoas mais júnior sob a minha alçada e de as ver crescer,
+e soube muito bem. Agora começo a pensar noutras coisas e a querer mais e a
+evoluir ainda mais.
+
+Como compromisso, fiz com que esteja sempre a ler um livro. Tenho andado a
+aprender imenso, especialmente sobre Clojure e novas metodologias. Também leio
+muito sobre liderança e management, já que começo a precisar mais dessas
+_soft skills_.
+
+### Orion's Belt BattleGrounds
+
+A certa altura no ano queria começar a fazer algo em _hobby-mode_ e apercebi-me
+que tínhamos inventado um jogo tão giro, e que tinha desaparecido da _internet_.
+Comecei então a fazer uma nova versão do OB, focada nas batalhas, opensource,
+e com o intuito de explorar boas práticas, aprender novas tecnologias, e ter
+mais _portfolio_. Espero em 2015 ter uma versão jogável no ar.
+
+Ando a reuniar a equipa original e a tentar cativar mais algumas pessoas que
+tragam uma mais valia ao projecto.
+
+### Alimentação vegetariana
+
+A meio do ano tive um choque comigo próprio. Comecei a ver a minha filha e a
+minha sobrinha a serem entupidas de medicamentos e comecei a pensar em alternativas,
+nomeadamente uma alimentação mais saudável. Comecei então a cortar completamente
+a carne da nossa dieta, em colaboração com a minha Clau. Continuamos a comer
+peixe (sushi!) mas muito menos, sendo o foco em casa em pratos vegetarianos.
+
+Tem sido uma transição fácil em casa, mas mais complexa fora. É complicado tentar
+explicar estas opções quando a mentalidade das pessoas está tão focada em carne.
+A roda dos alimentos portuguesa diz que se deve comer 5% de carne/peixe/ovos e
+40% vegetais. É engraçado que ninguém come vegetais, mas todos deconfiam e me
+criticam quando digo que deixei de comer carne.
+
+E os resultados? Estou 5 kg mais magro, num pico de forma, há meses que não tomo
+medicamentos. A Madalena foi à consulta dos 2 anos e há 6 meses que não ia ao
+médico. Estava tudo bem.
+
+Vou continuar a manter-me informado e a tentar que a saúde venha pela alimentação
+e pelo desporto, em vez de depender dos remendos dos remédios. Mais do que
+ideologias, o meu objectivo é que a minha familia seja o mais saudável possível.
+
+### Desporto
+
+Fiz vários triatlos e várias provas. No duatlo das lezírias, pela primeira vez
+acabei uma prova primeiro que o Tiago, que é a minha grande referência. Mas mais
+por inadaptação dele à prova do que por eu ter estado melhor.
+
+Depois consegui os meus grandes objectivos: Triatlo Olímpico do Estoril em menos
+de 3h, e mais tarde a maratona em 4h16, menos 30m que no ano anterior.
+
+Entre várias provas, de salientar as que fiz com os meus colegas de trabalho,
+e a evolução interessante que eles andam a ter. Espero em 2015 conseguir fazer
+mais provas com eles.
+
+Em Outubro entrei com a Nena para a natação do Benfica, onde ando a ter aulas
+2 vezes por semana e já começo a ver os benefícios de ter um monitor.
+
+Fui 31x para o trabalho de bicicleta ou a correr. Dá mês e meio seguido. Espero
+este ano conseguir ir ainda mais vezes.
+
+No total fiz:
+* 1,173.75 km a correr em 123h:
+ * 626.51 km na rua
+ * 184 km em pista
+ * 337 km em trilhos
+* 1,845.24 km em bicicleta em 96h:
+ * 1,218.72 em bicicleta de estrada
+ * 407 km em BTT
+ * 178 km em rolos
+* 62.60 km a nadar em 33h:
+ * 58 km em piscina
+ * 3.55 km em águas abertas
+
+Estou já a treinar a pensar no meu primeiro triatlo longo, em Maio.
+
+Foi um ano em cheio... e tenho um _feeling_ que 2015 vai ser ainda melhor, e que
+algo mais vai dar uma volta à minha vida... :)
