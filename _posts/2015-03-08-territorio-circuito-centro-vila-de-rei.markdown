@@ -1,5 +1,6 @@
 ---
 type: post
+markdown: true
 layout: post
 title: Território Circuito Centro - Vila de Rei 2015
 categories:
