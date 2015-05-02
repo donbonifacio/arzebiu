@@ -8,7 +8,8 @@ categories:
 tags:
 - provas
 - provas-concluidas
-- oh-meu-deus
+- recordar-2015
+- half-ironman
 - triatlo
 ---
 
