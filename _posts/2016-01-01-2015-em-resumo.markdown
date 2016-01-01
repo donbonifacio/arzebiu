@@ -1,0 +1,115 @@
+---
+layout: post
+status: publish
+markdown: true
+published: true
+title: 2015 em Resumo
+categories:
+- historico
+tags:
+- recordar-2015
+---
+
+Bom, este foi o ano de deixar o arzebiu às moscas. Aconteceu tanta coisa e eu
+estou de momento sem grande inspiração para ir escrevendo por aqui. Ainda assim
+vou manter a tradição de tentar recordar o ano.
+
+### Margarida
+
+Em 22 de Agosto nasceu a Margarida. Uma gravidez calma em que a Clau trabalhou
+quase até ao final. Faltavam 2 dias para as 40 semanas e durante o dia ela
+estava já com algumas contracções. De noite estava com contracções entre os 4
+e os 6 minutos e lá fomos para o hospital. A médica viu que estava muito pouco
+dilatada e até questionou se estaria mesmo com contracções. Então ligou-a à
+máquina e aquilo deu contracções por todo o lado.
+
+Mais uma vez a Clau estava em trabalho de parto mas sem dilatar. Fomos então
+para a cesariana. Nasceu às 2h11m, com 3.4 kg. Nasceu com o mesmmo tamanho
+e altura da Madalena, também a 2 dias das 40 semanas. Claramente temos a receita
+limada para fazer meninas bonitas. :)
+
+É sempre difícil introduzir a mama, mas a Clau já é pró em amamentar e pouco
+depois de nascer a Guida já estava com uma pega perfeita a mamar. Achamos que
+foi por causa destas facilidades que 1 mês de pois, ela estava com mais 500g
+do que estava a Madalena na mesma altura.
+
+Nota-se imensa diferença para a Madalena. A Margarida é mais socegada, mais
+sorridente, dorme muito bem. Por outro lado está a ficar mais doentinha.
+
+Está agora com 4 meses e é uma bebé linda. :)
+
+
+### Madalena
+
+Cresceu imenso... fez há dias os 3 anos e está uma criança espectacular. Este
+ano foi para o ballet, começou a ter inglês, tem música, faz natação com o pai,
+onde vai subir de nível nas próximas semanas. Fala super bem e é totalmente dona
+do seu nariz. Tem sempre resposta para tudo. Naturalmente ainda não sabe lidar
+bem com as frustações e as emoções e... faz muitas birras. É preciso imensa
+paciência. :)
+
+Quando a mana nasceu houve um retrocesso. Ela é tão crescidinha que nunca
+pensámos que isso fosse acontecer. Voltou a fazer xixi de noite e na sesta,
+tanto em casa como na escolinha. Piorou para comer, começou a fazer mais birras.
+Os primeiros dias foram complicados e de adaptação.
+
+Mas hoje já passou tudo e adora a mana, participa imenso em tudo e é imensamente
+carinhosa com ela. Já a faz sorrir e rir às gargalhadas, o que é sempre um
+momento adorável.
+
+Também já quase não cabe no berço, pelo que vamos comprar um beliche já para elas,
+para a posteridade. Até porque num tarda vamos passar a Margarida para o quarto
+delas.
+
+No dia dos 3 anos fomos ao cinema, e também levámos a prima Catarina. Foi uma
+história que correu muito mal... o filme era para M3, mas era super triste.
+Um filme em que a personagem primeiro vê o pai morrer, depois fica perdido da
+familia e tem de sobreviver com várias dificuldades. No momento em que a
+personagem se encontra sozinha numa praia, triste, a chamar pela mãe...
+começam as duas a chorar. Tanto que tivemos de sair.
+
+Enfim, depois compensámos com outras actividades, mas foi um episódeo giro
+para mais tarde recordar. :)
+
+### ClanHR
+
+Comecei um novo projecto, o [ClanHR](http://clanhr.com). Tal também marcou
+a minha saída do InvoiceXpress, projecto onde já estava há mais de 3 anos.
+Agora estou numa nova aventura e a tentar focar-me não só no código e
+arquitectura, mas também no negócio. Era algo que no IX não sentia que queria
+fazer, mas agora, tal como no OB, estou focado no socesso como produto.
+
+### Desporto
+
+Este ano tive de acalmar um pouco, com a Clau grávida e agora com duas bebés
+só agora começo a ter mais disponibilidade. E mesmo assim é complicado tirar 3-5h
+para uma volta grande de bicicleta, por exemplo. Não sei como vai ser o 2016,
+se calhar vou-me concentrar em melhorar os meus tempos às distâncias mais baixas
+(10km/21km/Triatlo Olímpico).
+
+Também comecei a fazer exercícios de crossfit e sinto diferenças. Aliás, sinto-me
+super em forma, mas sem andamento para provas longas. Onde sinto mais diferença
+é na natação, onde ando em média a fazer mais 100-200m por aula do que na época
+passada.
+
+Fiz uma maratona pirata com um tempo péssimo, mas deu para marcar o objectivo
+de uma maratona por ano. Acabei o meu primeiro half-ironman em sub6h. Até
+foi um bom ano.
+
+Fui 8x de bicicleta para o trabalho, o que bem menos que no ano passado. Este
+ano complicou com a gravidez e a bebé. A ver se para o ano consigo compensar.
+
+No total fiz:
+* 1,059.79 km a correr em  110h
+  * 729 km na rua
+  * 131 km na pista
+  * 113 km nos em trilhos
+* 1,437.31 km em bicicleta em 77h:
+  * 964 kms na bicicleta de estrada
+  * 252 em BTT
+* 129.80 km a nadar em 66h:
+  * 125 km em piscina
+  * 4 km em águas abertas
+
+Como experiência nova: Surf. Fiz uma aula com os meus colegas, e gostei
+bastante. Bem mais duro do que esperava.
